@@ -3,7 +3,6 @@
 
 🧩 Descripción<br>
 En Gotdato, te adentras en un universo lleno de acción y desafíos impredecibles. Cada ronda es una batalla por la supervivencia, donde podrás mejorar tu armamento y prepararte para enfrentarte a jefes formidables. Con un sistema de economía que te permite gestionar tus recursos estratégicamente, cada decisión cuenta para avanzar al siguiente nivel. <br>
-Nota: El juego aún no está terminado y sigue en desarrollo activo.
 
 ✨ Características Principales<br>
 Estilo de Juego: Roguelike por rondas con acción intensa y progresión continua. <br>
@@ -31,7 +30,9 @@ Balanceo de Economía: Sistema de economía dinámico para una experiencia desaf
 ⚠️ Disclaimer<br>
 El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento de The Cube.
 No incluye los assets ni otros recursos necesarios para ejecutar el juego.
-Para jugar puedes descargar la versión completa en [este enlace](https://sergiojimenezdev.itch.io/godtato)
+Para jugar puedes descargar la versión completa en [este enlace](https://sergiojimenezdev.itch.io/godtato)<br>
+
+Nota: El juego es totalmente jugable, aun así, no está terminado y por ahora el desarrollo está suspendido.
 
 📧 Contacto<br>
 Para preguntas, sugerencias o feedback, puedes contactarme por email:
