@@ -28,7 +28,7 @@ Balanceo de Economía: Sistema de economía dinámico para una experiencia desaf
 
 
 ⚠️ Disclaimer<br>
-El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento de The Cube.
+El código fuente de este repositorio se proporciona únicamente con fines informativos y para permitir la exploración de la arquitectura y el funcionamiento del juego.
 No incluye los assets ni otros recursos necesarios para ejecutar el juego.
 Para jugar puedes descargar la versión completa en [este enlace](https://sergiojimenezdev.itch.io/godtato)<br>
 
